@@ -1,7 +1,0 @@
-USE shopsphere;
-
-ALTER TABLE users
-ADD COLUMN phone VARCHAR(20);
-
-ALTER TABLE addresses
-ADD COLUMN country VARCHAR(100) NOT NULL DEFAULT 'India';
