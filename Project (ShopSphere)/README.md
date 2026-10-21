@@ -135,7 +135,7 @@ This project provides practical experience with web application development, CRU
 
 ## 👩‍💻 Developer
 
-**Neha Mulani**
+**Swaraj Kamewal**
 
 GitHub: [@Ethero-pod](https://github.com/Ethero-pod)
 
