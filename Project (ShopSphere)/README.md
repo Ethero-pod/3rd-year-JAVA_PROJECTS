@@ -137,7 +137,7 @@ This project provides practical experience with web application development, CRU
 
 **Neha Mulani**
 
-GitHub: [@nehamulanihub](https://github.com/nehamulanihub)
+GitHub: [@Ethero-pod](https://github.com/Ethero-pod)
 
 ## 📄 License
 
